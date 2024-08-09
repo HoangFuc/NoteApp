@@ -31,6 +31,15 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "92362f32-2afc-44e4-96a3-7654076825af"
+      }
+    },
+    "owner": "phuc.nguyen"
   }
 }
